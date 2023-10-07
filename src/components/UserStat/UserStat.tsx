@@ -10,5 +10,6 @@ export const UserStat = ({ followers, repos, following }: UserStatProps) => (
     <UserStatInfo title="Repos" number={repos} />
     <UserStatInfo title="Following" number={following} />
     <UserStatInfo title="Followers" number={followers} />
+    
   </div>
 );
