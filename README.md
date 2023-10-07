@@ -1,1 +1,3 @@
-# TypeScript Project GitHub user finder
+# devfinder
+Project for searching GitHub repositories
+
